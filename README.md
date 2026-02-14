@@ -36,7 +36,7 @@ A Django-based credit approval system with automated credit scoring, loan eligib
 1. **Clone the repository** (or navigate to the project directory)
 
 ```bash
-cd "Backend Internship Assignment"
+cd "Credit_Approval_System"
 ```
 
 2. **Build and start all services**
