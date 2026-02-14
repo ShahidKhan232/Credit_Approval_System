@@ -1,0 +1,1 @@
+# loans/migrations/__init__.py
